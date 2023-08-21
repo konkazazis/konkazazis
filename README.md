@@ -5,12 +5,16 @@
 
 Welcome to my GitHub profile! I'm passionate about creating elegant and user-friendly web applications. My skillset includes a range of technologies, and I'm always excited to learn and work on new projects.
 
-## Technologies I Work With
+## Technologies I Work With 💻 
 
-- **Frontend Development:** HTML, CSS, JavaScript
-- **Frontend Framework:** React
-- **Backend Development:** Python, Django
-- **Database:** SQL
+- **Frontend Development:** <img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+- **Frontend Framework:** <img style="padding:5px;" align="center" alt="React" width="35px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+- **Backend Development:** <img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img style="padding:5px;" align="center" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> 
+- **Database:** <img style="padding:5px;" align="center" alt="SQL" width="35px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 
 ## Get in Touch
 
@@ -18,7 +22,7 @@ I'm always open to interesting projects, collaborations, or just having a friend
 
 Let's code and create something awesome together! 🚀
 
- 💻 Languages, Frameworks
+
 <p float="left">
 <img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img style="padding:5px;" align="center" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> 
