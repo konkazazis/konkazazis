@@ -1,7 +1,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=blue&multiline=true&width=435&lines=Hello!+My+name+is+Konstantinos.+;I+am+a+Web+Developer!)](https://git.io/typing-svg)
 
+
+# Hey there! 👋 I'm [Your Name]
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-kazazis-32a470228/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+
+Welcome to my GitHub profile! I'm passionate about creating elegant and user-friendly web applications. My skillset includes a range of technologies, and I'm always excited to learn and work on new projects.
+
+## Technologies I Work With
+
+- **Frontend Development:** HTML, CSS, JavaScript
+- **Frontend Framework:** React
+- **Backend Development:** Python, Django
+- **Database:** SQL
+
+## Get in Touch
+
+I'm always open to interesting projects, collaborations, or just having a friendly chat. Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-kazazis-32a470228/).
+
+Let's code and create something awesome together! 🚀
 
 
 
