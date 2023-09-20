@@ -52,6 +52,7 @@ Welcome to my GitHub profile! I'm passionate about creating elegant and user-fri
 
 I'm always open to interesting projects, collaborations, or just having a friendly chat. Feel free to connect with me on 
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-kazazis-32a470228/)
 
 Let's code and create something awesome together! 🚀
