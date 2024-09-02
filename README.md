@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about creating elegant and user-fri
     <td align="center">
       <img alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
       <br>
-      JavaScript
+      TypeScript
     </td>
     <td align="center">
       <img alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about creating elegant and user-fri
     <td align="center">
       <img alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
       <br>
-      JavaScript
+       Node.js
     </td>
     <td align="center">
       <img alt="HTML" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
