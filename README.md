@@ -9,7 +9,17 @@ Welcome to my GitHub profile! I'm passionate about creating elegant and user-fri
 <table>
   <tr>
     <td align="center">
+      <img alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+      <br>
+      JavaScript
+    </td>
+    <td align="center">
       <img alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+      <br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png">
       <br>
       JavaScript
     </td>
