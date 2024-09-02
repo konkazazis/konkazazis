@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about creating elegant and user-fri
       JavaScript
     </td>
     <td align="center">
-      <img alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png">
+      <img alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
       <br>
       JavaScript
     </td>
