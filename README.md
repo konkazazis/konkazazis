@@ -62,3 +62,5 @@ I'm always open to interesting projects, collaborations, or just having a friend
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-kazazis-32a470228/)
 
 Let's code and create something awesome together! 🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konkazazis&layout=compact)
