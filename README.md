@@ -19,20 +19,12 @@ Welcome to my GitHub profile! I'm passionate about creating elegant and user-fri
       <br><strong>Node.js</strong>
     </td>
     <td align="center" style="padding: 15px;">
-      <img alt="HTML" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-      <br><strong>HTML</strong>
-    </td>
-    <td align="center" style="padding: 15px;">
-      <img alt="CSS" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-      <br><strong>CSS</strong>
-    </td>
-    <td align="center" style="padding: 15px;">
       <img alt="React" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
       <br><strong>React</strong>
     </td>
     <td align="center" style="padding: 15px;">
-      <img alt="Python" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-      <br><strong>Python</strong>
+      <img alt="Python" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+      <br><strong>Java</strong>
     </td>
     <td align="center" style="padding: 15px;">
       <img alt="Django" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
