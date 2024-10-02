@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about creating elegant and user-fri
       <br><strong>React</strong>
     </td>
     <td align="center" style="padding: 15px;">
-      <img alt="Python" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+      <img alt="Java" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
       <br><strong>Java</strong>
     </td>
     <td align="center" style="padding: 15px;">
