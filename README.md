@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full+Stack+Developer!)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm passionate about creating elegant and user-friendly web applications. My skillset includes a range of technologies, and I'm always excited to learn and work on new projects.
+Welcome to my GitHub profile! I'm passionate about creating elegant and user-friendly applications. My skillset includes a range of technologies, and I'm always excited to learn and work on new projects.
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,javascript,react,nodejs,postgres)](https://skillicons.dev)
 
