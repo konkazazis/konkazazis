@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about creating elegant and user-friendly applications. My skillset includes a range of technologies, and I'm always excited to learn and work on new projects.
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,javascript,react,nodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,react,nodejs,postgres,flutter)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konkazazis&layout=compact)
 
