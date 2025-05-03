@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,react,nodejs,postgres,flutter)](https://skillicons.dev)
 
-Hi, I'm Konstantinos – part-time bug developer, part-time car enthousiast. This repo is where I throw code at the wall to see what compiles.
+Hi, I'm Konstantinos – some-time bug developer, some-time car enthousiast. This repo is where I throw code at the wall to see what compiles.
 
 Projects may or may not include:
 
