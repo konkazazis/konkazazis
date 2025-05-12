@@ -1,5 +1,3 @@
-![Alt Text](https://github.com/konkazazis/konkazazis/blob/main/header.png)
-
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,react,nodejs,postgres,flutter)](https://skillicons.dev)
 
 Hi, I'm Konstantinos – some-time bug developer, some-time car enthousiast. This repo is where I throw code at the wall to see what compiles.
